@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/lipcsei/presta-img-to-cloudinary#readme",
   "dependencies": {
-    "cloudinary": "^1.4.6"
+    "cloudinary": "^1.4.6",
+    "dotenv": "^2.0.0"
   }
 }
