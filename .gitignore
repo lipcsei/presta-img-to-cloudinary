@@ -2,3 +2,4 @@ node_modules/
 img/
 .env
 *.tar.gz
+jsons/
